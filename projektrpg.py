@@ -1,6 +1,6 @@
 import random
 
-enemynames = ["Tomasz Gwiazda", "Lebron James", "Marcin Parówa", "Skeri Man", "Sigma"]
+enemynames = ["fifi", "aspir", "messi", "woodman", "pawel"]
 beaten = [0, 0, 0, 0, 0]
 cost = [30, 50, 75, 100, 200, 250, 400]
 hponlvl = [50, 100, 150, 200, 250, 300, 350, 450]
